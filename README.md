@@ -64,6 +64,8 @@ Modern library management system
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless%20Functions-000000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js%20Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Systems
 ![API](https://img.shields.io/badge/API%20Driven-FF6F00?style=for-the-badge)
