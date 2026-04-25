@@ -57,21 +57,21 @@ Modern library management system
 ## 🛠️ Stack
 
 ### Core
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Systems
-![API](https://img.shields.io/badge/-API%20Design-black?style=for-the-badge)
-![Automation](https://img.shields.io/badge/-Automation-black?style=for-the-badge)
+![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
