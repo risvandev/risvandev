@@ -26,32 +26,17 @@ Focused on shipping working systems, improving them, and solving practical probl
 
 ---
 
-## 🚀 Projects
+## 🚀 Flagship Project
 
-### 🔹 TilawaNow
-AI-assisted Qur’an platform  
+### TilawaNow
+Open-source Qur’an platform focused on structured reading and AI-assisted understanding.
 
-- Structured reading experience  
 - AI explanations  
-- Audio + progress tracking  
-- Built for performance and scalability  
+- Audio integration  
+- Progress tracking  
+- Scalable architecture  
 
----
-
-### 🔹 Lebrinex
-Modern library management system  
-
-- Book tracking system  
-- User workflows + authentication  
-- Real-time data handling  
-
----
-
-### 🔹 Automation Systems
-- Telegram trading bot (RSI, MACD, ccxt)  
-- Finance tools and calculators  
-- Utility-based systems  
-
+🔗 https://github.com/risvandev/TilawaNow
 ---
 
 ## 🛠️ Stack
