@@ -66,7 +66,9 @@ Modern library management system
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Systems
-![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Driven-FF6F00?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20Serverless-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge)
 
 ### Tools
