@@ -61,19 +61,22 @@ Modern library management system
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AI](https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python%20(Backend)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless%20Functions-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js%20Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
 
 ### Systems
 ![API](https://img.shields.io/badge/API%20Driven-FF6F00?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel%20Serverless-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-000000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge)
+
+---
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,8 +84,6 @@ Modern library management system
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge)
-
 ---
 
 ## 📊 Activity
