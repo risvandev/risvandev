@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Risvan 👋
-CS student and builder based in Kerala. 
+CSE student and builder based in Kerala. 
 
 I build full-stack web apps and explore startup ideas, with a focus on getting working products into production quickly.
 
