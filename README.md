@@ -13,4 +13,4 @@ I showcase my full project portfolio, live demos, and case studies here:
 - **Deployment:** Vercel, Git
 
 ## 📫 Connect
-[Email](mailto:risvandev@gmail.com) • [Portfolio](https://mhdrisvan.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/muhammedrisvan) • [Instagram](https://www.instagram.com/mhd._risvan)
+[risvandev@gmail.com](mailto:risvandev@gmail.com) • [Portfolio](https://mhdrisvan.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/muhammedrisvan) • [Instagram](https://www.instagram.com/mhd._risvan)
