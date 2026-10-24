@@ -1,24 +1,15 @@
 # Hi, I'm Muhammad Risvan 👋
+CS student and builder based in Kerala. 
 
-**Developer | Pragmatic Builder | Startup Enthusiast**
+I build full-stack web apps and explore startup ideas, with a focus on getting working products into production quickly.
 
-I’m a Computer Science student and developer based in Kerala. I focus on shipping functional, real-world applications by leveraging modern toolchains and AI-assisted development. 
+## 🚀 Projects
+- **[TilawaNow](https://github.com/risvandev/TilawaNow)** — An open-source Qur’an web app featuring verse-by-verse audio playback, translation breakdowns, and reading progress tracking. Built with React and Supabase.
 
-Driven by an interest in startup ideas and business strategies, my approach to engineering is highly pragmatic: I care more about solving practical problems, iterating quickly, and building working systems than memorizing every detail of a framework.
+## 🛠️ Stack
+- **Frontend:** React, Vite, JavaScript, Tailwind CSS
+- **Backend & DB:** Node.js, Flask, Supabase (PostgreSQL)
+- **Deployment:** Vercel, Git
 
-## 📌 Approach: Build → Ship → Iterate
-I value functional, user-centric software over unnecessary complexity. I use AI and modern tooling to accelerate development and focus on the architecture and end-user experience.
-
-## 🚀 Featured Project
-**[TilawaNow](https://github.com/risvandev/TilawaNow)**  
-An open-source Qur’an platform focused on structured reading and AI-assisted understanding.  
-*Features:* AI explanations, audio integration, progress tracking, and scalable architecture.
-
-## 🛠️ Tools I Use to Ship
-*I focus on the right tool for the job to get things working efficiently.*
-- **Core:** React, Vite, JavaScript
-- **Backend & Systems:** Node.js, Flask, Supabase, Serverless
-- **Workflow:** AI Tooling, Git, GitHub, Vercel, Replit
-
-## 📫 Connect with me
+## 📫 Connect
 [Portfolio](https://mhdrisvan.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/muhammedrisvan) • [Instagram](https://www.instagram.com/mhd._risvan)
