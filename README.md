@@ -4,7 +4,8 @@ CS student and builder based in Kerala.
 I build full-stack web apps and explore startup ideas, with a focus on getting working products into production quickly.
 
 ## 🚀 Projects
-- **[TilawaNow](https://github.com/risvandev/TilawaNow)** — An open-source Qur’an web app featuring verse-by-verse audio playback, translation breakdowns, and reading progress tracking. Built with React and Supabase.
+I showcase my full project portfolio, live demos, and case studies here:
+👉 **[View all projects on my portfolio](https://mhdrisvan.vercel.app/projects)**
 
 ## 🛠️ Stack
 - **Frontend:** React, Vite, JavaScript, Tailwind CSS
